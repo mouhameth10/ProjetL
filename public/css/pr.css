@@ -1,0 +1,36 @@
+.collapse navbar-collapse {
+
+border: solid;
+   display: inline-block;
+   list-style: none;
+   width: 200px;
+   margin: 20px;
+   text-align: center;
+}
+.aa{
+    
+   width: 200px;
+   background-color: black;
+}
+.container-fluid{
+    background-color: aqua;
+    height: 80px;
+}
+.dropdown-menu ul li{
+   position: absolute;
+   top: 100%;
+   right: 0;
+   z-index: 1000;
+   display: none;
+   min-width: 10rem;
+   padding: 0.5rem 0;
+   margin: 0.125rem 0 0;
+   font-size: 1rem;
+   color: black;
+   text-align: right;
+   list-style: none;
+   background-color: #fff;
+   background-clip: padding-box;
+   border: 1px solid rgba(0, 0, 0, 0.15);
+   border-radius: 0.25rem;
+ }

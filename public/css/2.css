@@ -1,0 +1,31 @@
+.ab ul li{
+list-style: none;
+display:inline-block ;
+text-align: center;
+border-radius: 15px;
+width: 300px;
+border: solid;
+
+margin: 20px;
+}
+.fi{
+border-radius: 5px;
+border: solid;
+background-color:olivedrab; 
+}
+.fb{
+	background-color: green;
+}
+.fc{
+	background-color: red;
+}
+.ae{
+	text-align: center;
+	background-color: darkolivegreen;
+}
+.ad{
+	background-color:yellowgreen;
+}
+.ab{
+	background-color:khaki;
+}
