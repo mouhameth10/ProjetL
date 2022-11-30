@@ -1,0 +1,39 @@
+.a ul li {
+    display: inline-block;
+    list-style: none;
+    
+    margin: 20px;
+   border: salmon;
+   
+}
+.ab{
+    float:left;
+    width:50%;
+    text-align: center;
+   
+}
+.ac{
+    text-align: center;
+    float:right;
+    width:50%;
+    margin-top: -45%;
+  
+}
+#im{
+    color:black;
+background-color:white;
+background-image:url("1.jpg");
+background-repeat: no-repeat, repeat-x, repeat;
+
+background-size: 100%;
+
+}
+.container-fluid{
+    background-color: rgb(173, 173, 173);
+    height: 100px;
+    text-align: center;
+    
+}
+#bb{
+   
+}

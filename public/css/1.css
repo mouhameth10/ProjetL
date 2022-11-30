@@ -1,0 +1,16 @@
+.ff{
+	border: solid;
+}
+.fa{
+	border-radius: 3px;
+	border: solid; 
+	width: 80%;
+	margin-left: 10%;
+	background-color: cyan;
+}
+.fb{
+	background-color: blue;
+}
+.fc{
+	background-color: red;
+}
